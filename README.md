@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://i.pinimg.com/originals/d1/b0/35/d1b035beb6ec8b99e82ba9b1a4069b67.gif
+![Uploading d1b035beb6ec8b99e82ba9b1a4069b67.gif…]()
 
 <!--
 **leandrojsandoval/leandrojsandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
